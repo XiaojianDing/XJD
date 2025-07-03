@@ -2,15 +2,21 @@
 == Publications
 
 == Conferences, Journals and Workshops
-. *Xiaojian Ding*, Fan Yang, "Multi-View Randomized Kernel Classification via Nonconvex Optimization [C]. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Vancouver, Canada, Feb 20-27, 2024. (CCF A)", 2024.\n
-. *Xiaojian Ding*, Yi Li and Shilin Chen, "Maximum margin and global criterion based-recursive feature selection [J]. Neural Networks, 2024, vol. 169, pp. 597-606. (SCI, IF=7.8001, CCF B)", 2024.\n
-. *Xiaojian Ding*, Fan Yang, Fumin Ma and Shilin Chen, "A Unified Multi-Class Feature Selection Framework for Microarray Data [J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2023, vol. 20, no. 6, pp. 3725-3736. (SCI, IF=4.5003, CCF B)", 2023.\n
-. *Xiaojian Ding*, Fan Yang, Yaoyi Zhong, Jie Cao, "A novel recursive gene selection method based on least square kernel extreme learning machine [J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022, vol. 19, no. 4, pp. 2026-2038. (SCI, IF=4.5003, CCF B)", 2022.\n
-. *Xiaojian Ding*, Jian Liu, Fan Yang, Jie Cao, "Random compact Gaussian kernel: Application to ELM classification and regression [J]. Knowledge-Based Systems, 2021, 217: 106848. (SCI, IF=8.139, CCF C)", 2021.\n
-. *Xiaojian Ding*, Fan Yang, Fumin Ma, "An efficient model selection for linear discriminant function-based recursive feature elimination [J]. Journal of Biomedical Informatics, 2022, 129: 104070. (SCI, IF=8, CCF C)", 2022.\n
-. *Xiaojian Ding*, Sheng Jin, Ming Lei, Jie Cao, "A predictor-corrector affine scaling method to train optimized extreme learning machine [J]. Journal of the Franklin Institute, 2022, 359(2): 1713-1731. (SCI, IF=4.0998)", 2022.\n
-. *Xiaojian Ding*, Fan Yang, Sheng Jin, Jie Cao, "An efficient alpha seeding method for optimized extreme learning machine-based feature selection algorithm [J]. Computers in Biology and Medicine, 2021, 134: 104505. (SCI, IF=6.698)", 2021.\n
-. *Xiaojian Ding*, Jian Liu, Fan Yang, Jie Cao, "Random radial basis function kernel-based support vector machine [J]. Journal of the Franklin Institute, 2021, 358(18): 10121-10140. (SCI, IF=4.0998)", 2021.\n
-. *Xiaojian Ding*, Yuan Lan, Zhifeng Zhang, Xin Xu, "Optimization extreme learning machine with v regularization [J]. Neurocomputing, 2017, 261: 11-19. (SCI, IF=5.998, CCF C)", 2017.\n
-. *Xiaojian Ding*, Baofang Chang, "Active set strategy of optimized extreme learning machine [J]. Chinese science bulletin, 2014, 59(31): 4152-4160. (SCI, IF=18.90)", 2014.\n
-. Guangbin Huang, Hongming Zhou, *Xiaojian Ding*, Rui Zhang, "Extreme learning machine for regression and multiclass classification [J]. IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 2012, 42(2): 513-529. (SCI, IF=11.80, CCF B)", 2012.\n
+. *Xiaojian Ding*, Zihan Xu, Yi Li, Fumin Ma, Shilin Chen. A Novel Recursive Ensemble Feature Selection Framework for High-Dimensional Data [J]. IEEE Transcation on Artifical Intelligence, 2025. \n
+. *Xiaojian Ding*, Menghan Cui, Kaixiang Wang. Automatic ensemble feature selection for multi-view data [J]. Neurocomputing, 2025: 130437.\n
+. *Xiaojian Ding*, Fan Yang. Multi-View Randomized Kernel Classification via Nonconvex Optimization [C]. In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), Vancouver, Canada, Feb 20-27, 2024.\n
+. Kaixiang Wang, *Xiaojian Ding*, Fan Yang. Non-Overlapped Multi-View Weak-Label Learning Guided by Multiple Correlations [C]//ACM Multimedia 2024.  \n
+. *Xiaojian Ding*, Menghan Cui, Yi Li, et al. A maximal accuracy and minimal difference criterion for multiple kernel learning [J]. Expert Systems with Applications, 2024: 124378. \n
+. Menghan Cui, Kaixiang Wang, *Xiaojian Ding*, et al. Multi-view Stable Feature Selection with Adaptive Optimization of View Weights[J]. Knowledge-Based Systems, 2024: 111970.   \n
+. Zihan Xu, *Xiaojian Ding*, Menghan Cui, et al. Multi-kernel subspace stable clustering with exact rank constraints [J]. Information Fusion, 2024, 110: 102488.   \n
+. *Xiaojian Ding*, Yi Li and Shilin Chen. Maximum margin and global criterion based-recursive feature selection [J]. Neural Networks, 2024, 169: 597-606. \n
+. *Xiaojian Ding*, Fan Yang, Fumin Ma and Shilin Chen. A Unified Multi-Class Feature Selection Framework for Microarray Data [J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2023, vol. 20, no. 6, pp. 3725-3736.\n
+. *Xiaojian Ding*, Fan Yang, Yaoyi Zhong, Jie Cao. A novel recursive gene selection method based on least square kernel extreme learning machine [J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022, vol. 19, no. 4, pp. 2026-2038.\n
+. *Xiaojian Ding*, Jian Liu, Fan Yang, Jie Cao. Random compact Gaussian kernel: Application to ELM classification and regression [J]. Knowledge-Based Systems, 2021, 217: 106848.\n
+. *Xiaojian Ding*, Fan Yang, Fumin Ma. An efficient model selection for linear discriminant function-based recursive feature elimination [J]. Journal of Biomedical Informatics, 2022, 129: 104070.\n
+. *Xiaojian Ding*, Sheng Jin, Ming Lei, Jie Cao. A predictor-corrector affine scaling method to train optimized extreme learning machine [J]. Journal of the Franklin Institute, 2022, 359(2): 1713-1731.\n
+. *Xiaojian Ding*, Fan Yang, Sheng Jin, Jie Cao. An efficient alpha seeding method for optimized extreme learning machine-based feature selection algorithm [J]. Computers in Biology and Medicine, 2021, 134: 104505.\n
+. *Xiaojian Ding*, Jian Liu, Fan Yang, Jie Cao. Random radial basis function kernel-based support vector machine [J]. Journal of the Franklin Institute, 2021, 358(18): 10121-10140.\n
+. *Xiaojian Ding*, Yuan Lan, Zhifeng Zhang, Xin Xu, "Optimization extreme learning machine with v regularization [J]. Neurocomputing, 2017, 261: 11-19. \n
+. *Xiaojian Ding*, Baofang Chang. Active set strategy of optimized extreme learning machine [J]. Chinese science bulletin, 2014, 59(31): 4152-4160. \n
+. Guangbin Huang, Hongming Zhou, *Xiaojian Ding*, Rui Zhang, Extreme learning machine for regression and multiclass classification [J]. IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 2012, 42(2): 513-529.\n
